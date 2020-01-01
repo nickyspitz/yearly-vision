@@ -1,5 +1,7 @@
 # Your Yearly Vision
 
+This is a thought exercise for aligning with yourself, intended to be completed yearly. It will take a good half-day to complete. For more information, see the [README](README.md); thanks/credit goes to [Andy Drish](https://andydrish.com/) for publishing this exercise in 2015.
+
 ## Step 1: Reflect on the previous year
 _Take 30-60 min to explore the highs and lows of your previous year. If there are lessons you can distill from those experiences, jot those down under 'Lessons Learned'_
 * Highs:
