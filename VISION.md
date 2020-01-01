@@ -40,7 +40,7 @@ In three-to-five years:
 * Who do you want to be?
 * How will you feel?
 * Who do you want to spend your time with?
-* What does your live life look like? How's your health?
+* What does your love life look like? How's your health?
 * What's your perfect day?
 
 One year from today:
