@@ -1,3 +1,5 @@
+# Your Yearly Vision
+
 ## Step 1: Reflect on the previous year
 _Take 30-60 min to explore the highs and lows of your previous year. If there are lessons you can distill from those experiences, jot those down under 'Lessons Learned'_
 * Highs:
@@ -30,7 +32,7 @@ _Pick your own topics to talk about, the following list (in alphabetical order) 
 * Spirituality
 
 ## Step 3: Create your vision for the future
-_This step is about working backwards from the "far-off" future to align with yourself as you continue to unfold_
+_This step is about working backwards from the "far-off" future to align with yourself as you continue to unfold. Take as much time as you need_
 
 In three-to-five years:
 * Who do you want to be?
