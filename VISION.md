@@ -46,6 +46,7 @@ One year from today:
 * How will you be more free?
 * How will you feel?
 * How will people experience you?
+* What is the most exciting thing in your life?
 
 And finally..
 ### My motto for the coming year is:
