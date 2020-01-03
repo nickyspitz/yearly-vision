@@ -6,6 +6,7 @@ Without further ado, here is the [Yearly Vision Exercise](VISION.md)
 Different languages available:
 * [Your Yearly Vision _in English_](VISION.md)
 * [Deine Vision für das kommende Jahr _auf Deutsch_](VISION-de.md)
+* [Tu vision anual _en Español_](VISION-es.md)
 
 Feel free to open a pull request with your own translation!
 
