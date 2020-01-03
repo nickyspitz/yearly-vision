@@ -3,6 +3,12 @@ This is a thought exercise for aligning with yourself, intended to be completed 
 
 Without further ado, here is the [Yearly Vision Exercise](VISION.md)
 
+Different languages available:
+* [Your Yearly Vision _in English_](VISION.md)
+* [Deine Vision für das kommende Jahr _auf Deutsch_](VISION-de.md)
+
+Feel free to open a pull request with your own translation!
+
 ## History
 Credit to this exercise goes to a fellow by the name of [Andy Drish](https://andydrish.com/) who I do not know personally and his Medium [article he wrote in December 2015](https://medium.com/hackerpreneur-magazine/3-steps-to-write-your-perfect-vision-for-2016-31947d316467?#.yo6gj3uz6). His current life journey, "to detox from the Western obsession with MORE" as he smartly puts it, is a good reminder to approach this exercise with gentle curiosity and kindness to yourself.
 
