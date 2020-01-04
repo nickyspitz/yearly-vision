@@ -3,7 +3,7 @@
 This is a thought exercise for aligning with yourself, intended to be completed yearly. It will take a good half-day to complete. For more information, see the [README](README.md); thanks/credit goes to [Andy Drish](https://andydrish.com/) for publishing this exercise in 2015.
 
 ## Step 1: Reflect on the previous year
-_Take 30-60 min to explore the highs and lows of your previous year. If there are lessons you can distill from those experiences, jot those down under 'Lessons Learned'_
+_Take 30-60 min to explore the highs and lows of your previous year. Go through your materials, like your calendar or photos, to remind yourself of memories and experiences. If there are lessons you can distill from those experiences, jot those down under 'Lessons Learned'_
 * Highs:
 
 * Lows:
@@ -11,7 +11,7 @@ _Take 30-60 min to explore the highs and lows of your previous year. If there ar
 * Lessons Learned:
 
 
-### Conclude Step 1
+### Conclude the previous year
 
 * Looking at this list, what I intend to *take with me into next year* is:
 
@@ -22,19 +22,24 @@ _Take no more than ten minutes to expound on each aspect of your life and give i
 
 _Pick your own topics to talk about, the following list (in alphabetical order) contains suggestions:_
 
+* Body Health
 * Career
+* Emotional Well-being
 * Family
+* Finances
 * Friendships
-* Health
+* Hobbies and Leisure
 * Love
+* Mental Health
 * Personal Development
 * Philanthropy
 * Quality of Life
+* Romance
 * Sexuality
 * Spirituality
 
 ## Step 3: Create your vision for the future
-_This step is about working backwards from the "far-off" future to align with yourself as you continue to unfold. Take as much time as you need_
+_This step is about establishing who you want to be in the "far-off" future and then working backwards to align that vision of yourself back to the present day. For the prompts, take time to let your thoughts flow. Limit your time to 30 minutes if you think you'll go nuts. Then take a break, perhaps drink a coffee or a glass of water. Come back to this step and distill all of these thoughts, looking carefully at any gaps, into a motto for your upcoming year!_
 
 In three-to-five years:
 * Who do you want to be?
