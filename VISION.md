@@ -13,9 +13,9 @@ _Take 30-60 min to explore the highs and lows of your previous year. Go through 
 
 ### Conclude the previous year
 
-* What I intend to *take with me into next year* is:
+* Looking at this list, what I intend to *take with me into next year* is:
 
-* What I intend to *leave in last year* is:
+* Looking at this list, what I intend to *leave in last year* is:
 
 ## Step 2: Take inventory of the present
 _Take no more than ten minutes to expound on each aspect of your life and give it a rating on a scale from one to ten, where ten is the best_
