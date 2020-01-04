@@ -39,7 +39,7 @@ _Pick your own topics to talk about, the following list (in alphabetical order) 
 * Spirituality
 
 ## Step 3: Create your vision for the future
-_This step is about working backwards from the "far-off you" wish for yourself to align yourself for the coming year. For the prompts, take time to let your thoughts flow. Limit your time to 30 minutes if you think you'll go nuts. Then take a step back, perhaps drink a coffee or a glass of water. Come back to your vision and distill all of these thoughts into a motto for your upcoming year!_
+_This step is about establishing who you want to be in the "far-off" future and then working backwards to align that vision of yourself back to the present day. For the prompts, take time to let your thoughts flow. Limit your time to 30 minutes if you think you'll go nuts. Then take a break, perhaps drink a coffee or a glass of water. Come back to this step and distill all of these thoughts, looking carefully at any gaps, into a motto for your upcoming year!_
 
 In three-to-five years:
 * Who do you want to be?
