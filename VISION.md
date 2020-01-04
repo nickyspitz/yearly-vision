@@ -25,14 +25,15 @@ _Pick your own topics to talk about, the following list (in alphabetical order) 
 * Body Health
 * Career
 * Family
+* Finances
 * Friendships
 * Hobbies and Leisure
-* Health
 * Love
 * Mental Health
 * Personal Development
 * Philanthropy
 * Quality of Life
+* Romance
 * Sexuality
 * Spirituality
 
