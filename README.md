@@ -13,4 +13,4 @@ Feel free to open a pull request with your own translation!
 ## History
 Credit to this exercise goes to a fellow by the name of [Andy Drish](https://andydrish.com/) who I do not know personally and his Medium [article he wrote in December 2015](https://medium.com/hackerpreneur-magazine/3-steps-to-write-your-perfect-vision-for-2016-31947d316467?#.yo6gj3uz6). His current life journey, "to detox from the Western obsession with MORE" as he smartly puts it, is a good reminder to approach this exercise with gentle curiosity and kindness to yourself.
 
-I've enjoyed my time with the exercise the last number of years and have shared it with many - now I want to open it up to the community by putting it on GitHub. I hope Andy won't mind :-)
+I've enjoyed my time with the exercise the last number of years and have shared it with many - now I want to open it up to the community by putting it on GitHub and with that (hopefully) help it grow. I hope Andy won't mind :-)
