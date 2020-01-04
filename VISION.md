@@ -24,6 +24,7 @@ _Pick your own topics to talk about, the following list (in alphabetical order) 
 
 * Body Health
 * Career
+* Emotional Well-being
 * Family
 * Finances
 * Friendships
